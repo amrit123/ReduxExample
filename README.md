@@ -1,5 +1,5 @@
 ## what?
-simple reactRedux  app that use JSONPlaceholder to load the posts and ability to add the new post.
+simple reactRedux  app that use JSONPlaceholder API to load the posts and ability to add the new post.
 
 ## technology required
 git bash or simple window terminal
